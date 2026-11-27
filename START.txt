@@ -1,0 +1,12 @@
+HoodzWalker
+3D modelling for GTA V and FiveM
+
+1. Unzip this folder anywhere except Program Files.
+2. Run hoodzwalker.exe. Nothing else to install.
+3. In the app: GTA > Game files browser, and point it at your GTA V folder (the one with GTA5.exe).
+
+Windows 10 or 11, 64-bit, DirectX 11.
+This zip does not include GTA V. You need your own copy of the game.
+
+How to use it: README.md
+Guide court en français : LISEZ-MOI.txt
